@@ -7,4 +7,4 @@ Deseño en 3D dun chaveiro co logo do IES Alfredo Brañas de Carballo
 
 # Autor
 
-* Juan Manuel Yáñez Barge
+* [Juan Manuel Yáñez Barge](https://github.com/JuanMYB)
