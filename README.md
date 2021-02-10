@@ -1,5 +1,5 @@
 # Chaveiro-IES-Alfredo-Branas
-Deseño en 3D dun chaveiro co logo do IES Alfredo Brañas de Carballo empregando ferramentas libres.
+Deseño e impresión 3D dun chaveiro co logo do IES Alfredo Brañas de Carballo.
 
 [A documentación está contida na wiki](https://github.com/JuanMYB/Chaveiro-IES-Alfredo-Branas/wiki)
 
